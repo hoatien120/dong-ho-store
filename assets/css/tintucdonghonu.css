@@ -1,0 +1,29 @@
+.slider{
+    width: 100%;
+}
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.content img{
+    width: 500px;
+    height: 500px;
+}
+.content .text{
+    width: 60%;
+}
+.content .text h1{
+    font-weight: bold;
+}
+.content .text p{
+    font-size: 18px;
+}
+.content .text img {
+    margin: 2% 0 2% 18%;
+}
+.tieude{
+    font-weight: bold;
+    font-size: 24px !important;
+    color: coral;
+}
